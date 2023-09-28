@@ -71,3 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Please make sur eyou install teh node modules for this project. All comments are inclusive in the code. 
+
+*** Neil's NOtes ***
+
+Please NPM install for node installation, check screenshot folders for screenshots and please update the task pdf content.

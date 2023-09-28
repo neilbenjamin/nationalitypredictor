@@ -9,7 +9,7 @@ function FetchComponent() {
   //Assign useRef
   const inputRef = useRef();
 
-  //Fetch async function courtesy of Hyerion notes and OpenAI 
+  //Fetch async function courtesy of Hyerion notes and OpenAI
   //for assistance in calling the correct objects within the main object.
 
   async function getApiInfo() {
